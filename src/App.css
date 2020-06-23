@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing:border-box;
+}
+
+body{
+  background: #ffff;
+  color: #47525e;
+}
+
+header{
+  width: 1024px;
+}
+
+header{
+  color: #47525E;
+  font-family: Lato;
+  font-size: 40px;
+  line-height: 50px;
+  width: 400px;
+  text-align: left;
+  font-weight: 700;
+}
+
+h2{
+  color: #47525E;
+  font-family: Lato;
+  font-size: 28px;
+  line-height: 34px;
+  width: 400px;
+  text-align: left;
+  margin-top: 37px;
+
+}
